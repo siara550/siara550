@@ -10,7 +10,7 @@ I love solving messy, human problems with technology, whether that means designi
 
 As a Break Through Tech Fellow, I’ve been growing my skills in machine learning, Python, and project management while collaborating with amazing peers and industry mentors to build AI projects with impact.  
 
-Right now, I’m looking for new grad opportunities in product, data, or AI—somewhere I can keep learning and help build things that matter. 
+Right now, I’m looking for new grad opportunities in product, data, or AI, somewhere I can keep learning and help build things that matter. 
 
 ---
 
@@ -21,15 +21,15 @@ We explored how SVD, a linear algebra technique, can be used to compress graysca
 ⚙️ Tools Used: Python · NumPy · SciPy · PIL · Google Colab · Matplotlib
 🧪 Results:
 
-Compressed a high-resolution X-ray to 42.02% of its original size
+- Compressed a high-resolution X-ray to 42.02% of its original size
 
-Retained 90% of the image's visual data
+- Retained 90% of the image's visual data
 
-Demonstrated how SVD enables efficient storage and faster transmission of medical images
+- Demonstrated how SVD enables efficient storage and faster transmission of medical images
 
-Wrote a full Python pipeline to upload, grayscale, compress, and reconstruct images using SVD
+- Wrote a full Python pipeline to upload, grayscale, compress, and reconstruct images using SVD
 
-Visualized reconstruction quality at varying k values (number of singular values retained)
+- Visualized reconstruction quality at varying k values (number of singular values retained)
 
 💡 Why It Matters:
 Hospitals generate massive amounts of imaging data. This project showed how a core linear algebra method could help reduce storage needs and costs while still supporting accurate diagnoses. It’s a great example of math + CS + healthcare coming together to solve real problems.
