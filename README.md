@@ -2,7 +2,7 @@
 
 🎓 Senior at Columbia University | Studying Computer Science & Human Rights (with a sprinkle of Economics)  
 🤖 AI, Product, and Social Impact Enthusiast | Break Through Tech Fellow  
-🌱 Passionate about using tech for good—and building real tools that make a difference  
+🌱 Passionate about using tech for good and building real tools that make a difference  
 
 --
 
