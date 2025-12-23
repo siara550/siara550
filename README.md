@@ -1,8 +1,8 @@
 Hi, I'm Siara!
 
-Senior at Columbia University | Studying Computer Science & Human Rights (with a minor in Economics)  
-AI, Product, and Social Impact Enthusiast | Break Through Tech Fellow  
-Passionate about using tech for good and building real tools that make a difference  
+- Senior at Columbia University | Studying Computer Science & Human Rights (with a minor in Economics)  
+- AI, Product, and Social Impact Enthusiast | Break Through Tech Fellow  
+- Passionate about using tech for good and building real tools that make a difference  
 
 --
 
