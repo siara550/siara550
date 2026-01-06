@@ -1,4 +1,4 @@
-Hi, I'm Siara!
+Hi I'm Siara!
 
 - Senior at Columbia University | Studying Computer Science & Human Rights (with a minor in Economics)  
 - AI, Product, and Social Impact Enthusiast | Break Through Tech Fellow  
@@ -6,7 +6,7 @@ Hi, I'm Siara!
 
 --
 
-I love solving messy, human problems with technology, whether that means designing a smarter AI chatbot for workplaces, building a sentiment classifier, or exploring ways to make tech more inclusive and responsible.
+I love solving problems with technology, whether that means designing a smarter AI chatbot for workplaces, building a sentiment classifier, or exploring ways to make tech more inclusive and responsible.
 
 As a Break Through Tech Fellow, I’ve been growing my skills in machine learning, Python, and project management while collaborating with amazing peers and industry mentors to build AI projects with impact.  
 
