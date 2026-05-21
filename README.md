@@ -4,15 +4,6 @@ Hi I'm Siara!
 - AI, Product, and Social Impact Enthusiast | Break Through Tech Fellow  
 - Passionate about using tech for good and building real tools that make a difference  
 
---
-
-I love solving problems with technology, whether that means designing a smarter AI chatbot for workplaces, building a sentiment classifier, or exploring ways to make tech more inclusive and responsible.
-
-As a Break Through Tech Fellow, I’ve been growing my skills in machine learning, Python, and project management while collaborating with amazing peers and industry mentors to build AI projects with impact.  
-
-Right now, I’m looking for new grad opportunities in product, data, or AI, somewhere I can keep learning and help build things that matter. 
-
----
 
 Featured Project: Application of Singular Value Decomposition (SVD) for Medical Imaging
 What We Did:
@@ -50,9 +41,3 @@ Let’s Connect
 Email: siarachowdhury550@gmail.com
 LinkedIn: https://www.linkedin.com/in/siara-chowdhury/
 
-
----
-
-Fun Fact
-
-When I’m not building something in Figma or exploring AI for social good, I’m probably cafe hopping around NYC, bonus points if they serve Yemeni coffee. 
